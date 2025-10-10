@@ -1,8 +1,8 @@
 # Menghitung volume dan luas permukaan balok
 # Rumus:
-p = int(input("Coba masukin bilangan bulat dong: "))
-l = int(input("Ayo masukin bilangan bulat lagi: "))
-t = int(input("Satu lagi nih, masukin bilangan bulat: "))
+p = int(input("Masukkan panjang balok (p): "))
+l = int(input("Masukkan lebar balok (l): "))
+t = int(input("Masukkan tinggi balok (t): "))
 
 choice = input("Mau ngitung apa nih? Volume, luas permukaan, atau jumlah rusuk? (v/s/k): ")
 print("=========================")
