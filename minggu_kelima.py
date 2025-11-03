@@ -12,7 +12,7 @@ elif nilai > 40:
 elif nilai > 20:
     print("D")
 else:
-    print("Balik TK aja lu")
+    print("E")
 
 
 
