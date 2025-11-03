@@ -1,7 +1,7 @@
 # Made by Aditya Dwi Nugroho - Minggu Kelima
 
 # Pernyataan Kondisi
-nilai = 79
+nilai = 87
 
 if nilai > 80:
     print("A")
