@@ -35,7 +35,7 @@ else:
 
 # Praktik ke-3
 print("Masukkan sebuah angka...")
-print("Dan Anda akan check hubungna kedua angka tersebut")
+print("Dan Anda akan check hubungan kedua angka tersebut")
 angka1 = input("Masukkan angka pertama: ")
 angka1 = int(angka1)
 angka2 = input("Masukkan angka kedua: ")
